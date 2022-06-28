@@ -4,7 +4,7 @@ var settings = {
   dots: false,
   arrows: false,
   slide: '.slick-slideshow__slide',
-  slidesToShow: 3,
+  slidesToShow: 1,
   centerMode: true,
   centerPadding: '60px',
 };
